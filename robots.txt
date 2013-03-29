@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://svsc.github.com/svsc/sitemap.xml 
